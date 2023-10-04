@@ -10,3 +10,7 @@ Mescla de tabelas empoloyee e departaments e remoção de colunas
 Mescla de tabelas works_on e projects e remoção de colunas
 
 Mescla de tabelas locations e departaments e remoção de colunas
+
+Junção de Gerentes responsaveis e colaboradores
+
+Dados agrupados para saber quantos colaboradores existem por gerente
