@@ -4,3 +4,9 @@ Coluna Employee:
   Separei o endereço por parte e renomeei as colunas novas;
   Alterei as colunas de lugar para que ficassem em uma ordem que faça sentido;
   Alterei o tipo da coluna salário para decimal fixo.
+
+Mescla de tabelas empoloyee e departaments e remoção de colunas
+
+Mescla de tabelas works_on e projects e remoção de colunas
+
+Mescla de tabelas locations e departaments e remoção de colunas
